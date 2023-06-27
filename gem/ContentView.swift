@@ -3,7 +3,7 @@
 //  gem
 //
 //  Created by Scholar on 6/27/23.
-//ligvlihgv
+//
 
 import SwiftUI
 
@@ -24,3 +24,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }//HIIIII
+
+///blah 
